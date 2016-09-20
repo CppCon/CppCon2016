@@ -16,3 +16,7 @@ and code from [CppCon 2016](http://cppcon.org).
 ## Tutorials
 
  - [GDB - a lot more than you realized](Tutorials/GDB - a lot more than you realized/GDB - a lot more than you realized - Greg Law - CppCon 2016.pdf) by Greg Law
+
+## Demos
+
+ - [Cache Optimised Hash library](Demos/Cache Optimised Hash library/Cache Optimised Hash library - Christiaan Pretorius - CppCon 2016.pdf) by Christiaan Pretorius
