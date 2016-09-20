@@ -11,6 +11,7 @@ and code from [CppCon 2016](http://cppcon.org).
 ## Presentations
 
  - [Beyond the Issaquah Challenge](Presentations/Beyond the Issaquah Challenge/Beyond the Issaquah Challenge - Paul McKenney - CppCon 2016.pdf) by Paul McKenney
+ - [C++ Costless Abstractions - the Compiler View](Presentations/C++ Costless Abstractions - the Compiler View/C++ Costless Abstractions - the Compiler View - Serge Guelton - CppCon 2016.pdf) by Serge Guelton
  - [C++14 Reflections Without Macros, Markup nor External Tooling](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.pdf) by Antony Polukhin \[[.odp](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.odp)\] \[[.pdf](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.pdf)\]
 
 ## Tutorials
