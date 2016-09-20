@@ -17,6 +17,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [High Performance C++ Concurrent Transactional Data Structures](Presentations/High Performance C++ Concurrent Transactional Data Structures/High Performance C++ Concurrent Transactional Data Structures - Deli Zhang - CppCon 2016.pdf) by Deli Zhang
  - [Regular Expressions in C++, Present and Future](Presentations/Regular Expressions in C++, Present and Future/Regular Expressions in C++, Present and Future - Tim Shen - CppCon 2016.pdf) by Tim Shen
  - [The MAME Story - From C to Modern C++](Presentations/The MAME Story - From C to Modern C++/The MAME Story - From C to Modern C++ - Miodrag Milanovic - CppCon 2016.pdf) by Miodrag Milanovic
+ - [Welcome To The Time Zone](Presentations/Welcome To The Time Zone/Welcome To The Time Zone - Howard Hinnant - CppCon 2016.pdf) by Howard Hinnant
 
 ## Tutorials
 
