@@ -16,6 +16,7 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Tutorials
 
+ - [A chrono Tutorial](Tutorials/A chrono Tutorial/A chrono Tutorial - Howard Hinnant - CppCon 2016.pdf) by Howard Hinnant
  - [GDB - a lot more than you realized](Tutorials/GDB - a lot more than you realized/GDB - a lot more than you realized - Greg Law - CppCon 2016.pdf) by Greg Law
 
 ## Demos
