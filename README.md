@@ -16,6 +16,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Game Engine Using C++11](Presentations/Game Engine Using C++11/Game Engine Using C++11 - Jason Jurecka - CppCon 2016.pdf) by Jason Jurecka
  - [High Performance C++ Concurrent Transactional Data Structures](Presentations/High Performance C++ Concurrent Transactional Data Structures/High Performance C++ Concurrent Transactional Data Structures - Deli Zhang - CppCon 2016.pdf) by Deli Zhang
  - [Regular Expressions in C++, Present and Future](Presentations/Regular Expressions in C++, Present and Future/Regular Expressions in C++, Present and Future - Tim Shen - CppCon 2016.pdf) by Tim Shen
+ - [The MAME Story - From C to Modern C++](Presentations/The MAME Story - From C to Modern C++/The MAME Story - From C to Modern C++ - Miodrag Milanovic - CppCon 2016.pdf) by Miodrag Milanovic
 
 ## Tutorials
 
