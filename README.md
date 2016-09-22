@@ -22,6 +22,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Instruction Re-ordering Everywhere](Presentations/Instruction Re-ordering Everywhere/Instruction Re-ordering Everywhere - Charles Bay - CppCon 2016.pdf) by Charles Bay
  - [Out of memory - Business as usual](Presentations/Out of memory - Business as usual/Out of memory - Business as usual - Sergey Zubkov - CppCon 2016.pdf) by Sergey Zubkov
  - [Parallelism in Modern C++](Presentations/Parallelism in Modern C++/Parallelism in Modern C++ - Hartmut Kaiser - CppCon 2016.pdf) by Hartmut Kaiser
+ - [Python and C++. The beauty and the beast](Presentations/Python and C++. The beauty and the beast/Python and C++. The beauty and the beast - Diego Rodriguez-Losada - CppCon 2016.pdf) by Diego Rodriguez-Losada
  - [Rainbow Six Siege - Quest for Performance](Presentations/Rainbow Six Siege - Quest for Performance/Rainbow Six Siege - Quest for Performance - Nicolas Fleury - CppCon 2016.pdf) by Nicolas Fleury
  - [Regular Expressions in C++, Present and Future](Presentations/Regular Expressions in C++, Present and Future/Regular Expressions in C++, Present and Future - Tim Shen - CppCon 2016.pdf) by Tim Shen
  - [The MAME Story - From C to Modern C++](Presentations/The MAME Story - From C to Modern C++/The MAME Story - From C to Modern C++ - Miodrag Milanovic - CppCon 2016.pdf) by Miodrag Milanovic \[[README](Presentations/The MAME Story - From C to Modern C++/README.md)\]
