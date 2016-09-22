@@ -15,6 +15,7 @@ and code from [CppCon 2016](http://cppcon.org).
 ## Presentations
 
  - [Beyond the Issaquah Challenge](Presentations/Beyond the Issaquah Challenge/Beyond the Issaquah Challenge - Paul McKenney - CppCon 2016.pdf) by Paul McKenney
+ - [Building Software Capital](Presentations/Building Software Capital/Building Software Capital - David Sankel - CppCon 2016.pdf) by David Sankel
  - [C++ Costless Abstractions - the Compiler View](Presentations/C++ Costless Abstractions - the Compiler View/C++ Costless Abstractions - the Compiler View - Serge Guelton - CppCon 2016.pdf) by Serge Guelton \[[README](Presentations/C++ Costless Abstractions - the Compiler View/README.md)\]
  - [C++14 Reflections Without Macros, Markup nor External Tooling](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.pdf) by Antony Polukhin \[[.odp](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.odp)\] \[[.pdf](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.pdf)\]
  - [Game Engine Using C++11](Presentations/Game Engine Using C++11/Game Engine Using C++11 - Jason Jurecka - CppCon 2016.pdf) by Jason Jurecka
