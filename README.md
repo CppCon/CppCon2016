@@ -34,6 +34,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [tuple, What's New, And How It Works](Presentations/tuple, What's New, And How It Works/tuple, What's New, And How It Works - Stephan T. Lavavej - CppCon 2016.pdf) by Stephan T. Lavavej
  - [Variants - Past, Present, and Future](Presentations/Variants - Past, Present, and Future/Variants - Past, Present, and Future - David Sankel - CppCon 2016.pdf) by David Sankel
  - [Welcome To The Time Zone](Presentations/Welcome To The Time Zone/Welcome To The Time Zone - Howard Hinnant - CppCon 2016.pdf) by Howard Hinnant
+ - [What We’ve Learned From the C++ Community](Presentations/What We’ve Learned From the C++ Community/What We’ve Learned From the C++ Community - Rob Irving and Jason Turner - CppCon 2016.pdf) by Rob Irving and Jason Turner
 
 ## Tutorials
 
