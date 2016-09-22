@@ -8,6 +8,10 @@ and code from [CppCon 2016](http://cppcon.org).
 
 # Index of Materials
 
+## Keynotes
+
+ - [The Evolution of C++ - Past, Present, and Future](Keynotes/The Evolution of C++ - Past, Present, and Future/The Evolution of C++ - Past, Present, and Future - Bjarne Stroustrup - CppCon 2016.pdf) by Bjarne Stroustrup
+
 ## Presentations
 
  - [Beyond the Issaquah Challenge](Presentations/Beyond the Issaquah Challenge/Beyond the Issaquah Challenge - Paul McKenney - CppCon 2016.pdf) by Paul McKenney
