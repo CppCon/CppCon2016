@@ -14,6 +14,7 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Presentations
 
+ - [accumulate - Exploring an Algorithmic Empire](Presentations/accumulate - Exploring an Algorithmic Empire/accumulate - Exploring an Algorithmic Empire - Ben Deane - CppCon 2016.pdf) by Ben Deane
  - [Beyond the Issaquah Challenge](Presentations/Beyond the Issaquah Challenge/Beyond the Issaquah Challenge - Paul McKenney - CppCon 2016.pdf) by Paul McKenney
  - [Building Software Capital](Presentations/Building Software Capital/Building Software Capital - David Sankel - CppCon 2016.pdf) by David Sankel
  - [C++ Costless Abstractions - the Compiler View](Presentations/C++ Costless Abstractions - the Compiler View/C++ Costless Abstractions - the Compiler View - Serge Guelton - CppCon 2016.pdf) by Serge Guelton \[[README](Presentations/C++ Costless Abstractions - the Compiler View/README.md)\]
