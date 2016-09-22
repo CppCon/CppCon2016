@@ -67,12 +67,14 @@ void GenerateEntry(const std::string& session_name,
                    const std::string& path) {
   const Directory dir(path);
 
+  std::string readme_md_file;
   std::string presentation_file;
   std::vector<std::string> all_presentation_files, all_other_files;
   std::string author;
 
   const std::regex presentation_regex("- CppCon 2016\\.[^.]*$");
   const std::regex pdf_regex("\\.pdf$", std::regex_constants::icase);
+  const std::regex readme_md_regex("README\\.md$");
 
   for (const auto& name : dir.Contents()) {
     if (std::regex_search(name, presentation_regex)) {
@@ -83,6 +85,8 @@ void GenerateEntry(const std::string& session_name,
       }
 
       all_presentation_files.push_back(name);
+    } else if (std::regex_search(name, readme_md_regex)) {
+      readme_md_file = name;
     } else {
       all_other_files.push_back(name);
     }
@@ -99,6 +103,10 @@ void GenerateEntry(const std::string& session_name,
         [](char& c) { c = std::tolower(c); });
       std::cout << " \\[[." << extension << "](" << path + "/" + file << ")\\]";
     }
+  }
+
+  if (!readme_md_file.empty()) {
+    std::cout << " \\[[README](" << path << "/" << readme_md_file << ")\\]";
   }
 
   if (!all_other_files.empty()) {
