@@ -40,6 +40,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Template Normal Programming, Part 1](Tutorials/Template Normal Programming, Part 1/Template Normal Programming, Part 1 - Arthur O'Dwyer - CppCon 2016.pdf) by Arthur O'Dwyer
  - [Template Normal Programming, Part 2](Tutorials/Template Normal Programming, Part 2/Template Normal Programming, Part 2 - Arthur O'Dwyer - CppCon 2016.pdf) by Arthur O'Dwyer
  - [The Blaze High Performance Math Library](Tutorials/The Blaze High Performance Math Library/The Blaze High Performance Math Library - Klaus Iglberger - CppCon 2016.pdf) by Klaus Iglberger
+ - [Using Types Effectively](Tutorials/Using Types Effectively/Using Types Effectively - Ben Deane - CppCon 2016.pdf) by Ben Deane
 
 ## Demos
 
