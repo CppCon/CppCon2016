@@ -39,6 +39,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [The speed of concurrency (is lock-free faster)](Presentations/The speed of concurrency (is lock-free faster)/The speed of concurrency (is lock-free faster) - Fedor Pikus - CppCon 2016.bz2) by Fedor Pikus
  - [Towards Heterogeneous Programming in C++](Presentations/Towards Heterogeneous Programming in C++/Towards Heterogeneous Programming in C++ - Gordon Brown and Michael Wong - CppCon 2016.pdf) by Gordon Brown and Michael Wong
  - [tuple, What's New, And How It Works](Presentations/tuple, What's New, And How It Works/tuple, What's New, And How It Works - Stephan T. Lavavej - CppCon 2016.pdf) by Stephan T. Lavavej
+ - [Variadic expansion in examples](Presentations/Variadic expansion in examples/Variadic expansion in examples - Michał Dominiak - CppCon 2016.pdf) by Michał Dominiak
  - [Variants - Past, Present, and Future](Presentations/Variants - Past, Present, and Future/Variants - Past, Present, and Future - David Sankel - CppCon 2016.pdf) by David Sankel
  - [Welcome To The Time Zone](Presentations/Welcome To The Time Zone/Welcome To The Time Zone - Howard Hinnant - CppCon 2016.pdf) by Howard Hinnant
  - [What Happened to Deprecated and Removed Features of C++](Presentations/What Happened to Deprecated and Removed Features of C++/What Happened to Deprecated and Removed Features of C++ - Billy Baker - CppCon 2016.pdf) by Billy Baker
