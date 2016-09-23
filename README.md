@@ -30,6 +30,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Python and C++. The beauty and the beast](Presentations/Python and C++. The beauty and the beast/Python and C++. The beauty and the beast - Diego Rodriguez-Losada - CppCon 2016.pdf) by Diego Rodriguez-Losada
  - [Rainbow Six Siege - Quest for Performance](Presentations/Rainbow Six Siege - Quest for Performance/Rainbow Six Siege - Quest for Performance - Nicolas Fleury - CppCon 2016.pdf) by Nicolas Fleury
  - [Regular Expressions in C++, Present and Future](Presentations/Regular Expressions in C++, Present and Future/Regular Expressions in C++, Present and Future - Tim Shen - CppCon 2016.pdf) by Tim Shen
+ - [STL Algorithms](Presentations/STL Algorithms/STL Algorithms - Marshall Clow - CppCon 2016.pdf) by Marshall Clow
  - [The Exception Situation](Presentations/The Exception Situation/The Exception Situation - Patrice Roy - CppCon 2016.pdf) by Patrice Roy
  - [The MAME Story - From C to Modern C++](Presentations/The MAME Story - From C to Modern C++/The MAME Story - From C to Modern C++ - Miodrag Milanovic - CppCon 2016.pdf) by Miodrag Milanovic \[[README](Presentations/The MAME Story - From C to Modern C++/README.md)\]
  - [Towards Heterogeneous Programming in C++](Presentations/Towards Heterogeneous Programming in C++/Towards Heterogeneous Programming in C++ - Gordon Brown and Michael Wong - CppCon 2016.pdf) by Gordon Brown and Michael Wong
