@@ -14,11 +14,14 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Presentations
 
+ - [AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!](Presentations/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits! - Andy Bond - CppCon 2016.pdf) by Andy Bond
  - [accumulate - Exploring an Algorithmic Empire](Presentations/accumulate - Exploring an Algorithmic Empire/accumulate - Exploring an Algorithmic Empire - Ben Deane - CppCon 2016.pdf) by Ben Deane
+ - [Algorithm Design For Values Distributed In Time](Presentations/Algorithm Design For Values Distributed In Time/Algorithm Design For Values Distributed In Time - Kirk Shoop - CppCon 2016.pdf) by Kirk Shoop
  - [Beyond the Issaquah Challenge](Presentations/Beyond the Issaquah Challenge/Beyond the Issaquah Challenge - Paul McKenney - CppCon 2016.pdf) by Paul McKenney
  - [Building Software Capital](Presentations/Building Software Capital/Building Software Capital - David Sankel - CppCon 2016.pdf) by David Sankel
  - [C++ Costless Abstractions - the Compiler View](Presentations/C++ Costless Abstractions - the Compiler View/C++ Costless Abstractions - the Compiler View - Serge Guelton - CppCon 2016.pdf) by Serge Guelton \[[README](Presentations/C++ Costless Abstractions - the Compiler View/README.md)\]
  - [C++14 Reflections Without Macros, Markup nor External Tooling](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.pdf) by Antony Polukhin \[[.odp](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.odp)\] \[[.pdf](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.pdf)\]
+ - [Constant Fun](Presentations/Constant Fun/Constant Fun - Dietmar Kuehl - CppCon 2016.pdf) by Dietmar Kuehl \[[README](Presentations/Constant Fun/README.md)\]
  - [Elegant Asynchronous Code](Presentations/Elegant Asynchronous Code/Elegant Asynchronous Code - Nat Goodspeed - CppCon 2016.pdf) by Nat Goodspeed
  - [Game Engine Using C++11](Presentations/Game Engine Using C++11/Game Engine Using C++11 - Jason Jurecka - CppCon 2016.pdf) by Jason Jurecka
  - [High Performance C++ Concurrent Transactional Data Structures](Presentations/High Performance C++ Concurrent Transactional Data Structures/High Performance C++ Concurrent Transactional Data Structures - Deli Zhang - CppCon 2016.pdf) by Deli Zhang \[[README](Presentations/High Performance C++ Concurrent Transactional Data Structures/README.md)\]
@@ -30,12 +33,17 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Python and C++. The beauty and the beast](Presentations/Python and C++. The beauty and the beast/Python and C++. The beauty and the beast - Diego Rodriguez-Losada - CppCon 2016.pdf) by Diego Rodriguez-Losada
  - [Rainbow Six Siege - Quest for Performance](Presentations/Rainbow Six Siege - Quest for Performance/Rainbow Six Siege - Quest for Performance - Nicolas Fleury - CppCon 2016.pdf) by Nicolas Fleury
  - [Regular Expressions in C++, Present and Future](Presentations/Regular Expressions in C++, Present and Future/Regular Expressions in C++, Present and Future - Tim Shen - CppCon 2016.pdf) by Tim Shen
+ - [SPMD Programming Using C++ and ISPC](Presentations/SPMD Programming Using C++ and ISPC/SPMD Programming Using C++ and ISPC - Nicolas Guillemot - CppCon 2016.pdf) by Nicolas Guillemot
+ - [STL Algorithms](Presentations/STL Algorithms/STL Algorithms - Marshall Clow - CppCon 2016.pdf) by Marshall Clow
  - [The Exception Situation](Presentations/The Exception Situation/The Exception Situation - Patrice Roy - CppCon 2016.pdf) by Patrice Roy
  - [The MAME Story - From C to Modern C++](Presentations/The MAME Story - From C to Modern C++/The MAME Story - From C to Modern C++ - Miodrag Milanovic - CppCon 2016.pdf) by Miodrag Milanovic \[[README](Presentations/The MAME Story - From C to Modern C++/README.md)\]
+ - [The speed of concurrency (is lock-free faster)](Presentations/The speed of concurrency (is lock-free faster)/The speed of concurrency (is lock-free faster) - Fedor Pikus - CppCon 2016.bz2) by Fedor Pikus
  - [Towards Heterogeneous Programming in C++](Presentations/Towards Heterogeneous Programming in C++/Towards Heterogeneous Programming in C++ - Gordon Brown and Michael Wong - CppCon 2016.pdf) by Gordon Brown and Michael Wong
  - [tuple, What's New, And How It Works](Presentations/tuple, What's New, And How It Works/tuple, What's New, And How It Works - Stephan T. Lavavej - CppCon 2016.pdf) by Stephan T. Lavavej
+ - [Variadic expansion in examples](Presentations/Variadic expansion in examples/Variadic expansion in examples - Michał Dominiak - CppCon 2016.pdf) by Michał Dominiak
  - [Variants - Past, Present, and Future](Presentations/Variants - Past, Present, and Future/Variants - Past, Present, and Future - David Sankel - CppCon 2016.pdf) by David Sankel
  - [Welcome To The Time Zone](Presentations/Welcome To The Time Zone/Welcome To The Time Zone - Howard Hinnant - CppCon 2016.pdf) by Howard Hinnant
+ - [What Happened to Deprecated and Removed Features of C++](Presentations/What Happened to Deprecated and Removed Features of C++/What Happened to Deprecated and Removed Features of C++ - Billy Baker - CppCon 2016.pdf) by Billy Baker
  - [What We’ve Learned From the C++ Community](Presentations/What We’ve Learned From the C++ Community/What We’ve Learned From the C++ Community - Rob Irving and Jason Turner - CppCon 2016.pdf) by Rob Irving and Jason Turner
 
 ## Tutorials
@@ -43,6 +51,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [A chrono Tutorial](Tutorials/A chrono Tutorial/A chrono Tutorial - Howard Hinnant - CppCon 2016.pdf) by Howard Hinnant
  - [Asynchronous IO with Boost.Asio](Tutorials/Asynchronous IO with Boost.Asio/Asynchronous IO with Boost.Asio - Michael Caisse - CppCon 2016.pdf) by Michael Caisse
  - [GDB - a lot more than you realized](Tutorials/GDB - a lot more than you realized/GDB - a lot more than you realized - Greg Law - CppCon 2016.pdf) by Greg Law
+ - [Implementing static control flow in C++14](Tutorials/Implementing static control flow in C++14/Implementing static control flow in C++14 - Vittorio Romeo - CppCon 2016.pdf) by Vittorio Romeo \[[.pptx](Tutorials/Implementing static control flow in C++14/Implementing static control flow in C++14 - Vittorio Romeo - CppCon 2016.pptx)\] \[[.pdf](Tutorials/Implementing static control flow in C++14/Implementing static control flow in C++14 - Vittorio Romeo - CppCon 2016.pdf)\] \[[README](Tutorials/Implementing static control flow in C++14/README.md)\]
  - [Template Normal Programming, Part 1](Tutorials/Template Normal Programming, Part 1/Template Normal Programming, Part 1 - Arthur O'Dwyer - CppCon 2016.pdf) by Arthur O'Dwyer
  - [Template Normal Programming, Part 2](Tutorials/Template Normal Programming, Part 2/Template Normal Programming, Part 2 - Arthur O'Dwyer - CppCon 2016.pdf) by Arthur O'Dwyer
  - [The Blaze High Performance Math Library](Tutorials/The Blaze High Performance Math Library/The Blaze High Performance Math Library - Klaus Iglberger - CppCon 2016.pdf) by Klaus Iglberger
@@ -50,5 +59,7 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Demos
 
+ - [Achieving financial data processing performance through compile time introspection](Demos/Achieving financial data processing performance through compile time introspection/Achieving financial data processing performance through compile time introspection - Eduardo Madrid - CppCon 2016.pdf) by Eduardo Madrid \[[more materials](Demos/Achieving financial data processing performance through compile time introspection)\]
  - [Cache Optimised Hash library](Demos/Cache Optimised Hash library/Cache Optimised Hash library - Christiaan Pretorius - CppCon 2016.pdf) by Christiaan Pretorius
  - [Conan C and C++ package manager](Demos/Conan C and C++ package manager/Conan C and C++ package manager - Diego Rodriguez-Losada - CppCon 2016.pdf) by Diego Rodriguez-Losada
+ - [Rich Code For Tiny Machines](Demos/Rich Code For Tiny Machines/Rich Code For Tiny Machines - Jason Turner - CppCon 2016.pptx) by Jason Turner \[[README](Demos/Rich Code For Tiny Machines/README.md)\]
