@@ -55,3 +55,4 @@ and code from [CppCon 2016](http://cppcon.org).
 
  - [Cache Optimised Hash library](Demos/Cache Optimised Hash library/Cache Optimised Hash library - Christiaan Pretorius - CppCon 2016.pdf) by Christiaan Pretorius
  - [Conan C and C++ package manager](Demos/Conan C and C++ package manager/Conan C and C++ package manager - Diego Rodriguez-Losada - CppCon 2016.pdf) by Diego Rodriguez-Losada
+ - [Rich Code For Tiny Machines](Demos/Rich Code For Tiny Machines/Rich Code For Tiny Machines - Jason Turner - CppCon 2016.pptx) by Jason Turner \[[README](Demos/Rich Code For Tiny Machines/README.md)\]
