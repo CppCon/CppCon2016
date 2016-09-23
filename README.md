@@ -14,6 +14,7 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Presentations
 
+ - [AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!](Presentations/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits! - Andy Bond - CppCon 2016.pdf) by Andy Bond
  - [accumulate - Exploring an Algorithmic Empire](Presentations/accumulate - Exploring an Algorithmic Empire/accumulate - Exploring an Algorithmic Empire - Ben Deane - CppCon 2016.pdf) by Ben Deane
  - [Algorithm Design For Values Distributed In Time](Presentations/Algorithm Design For Values Distributed In Time/Algorithm Design For Values Distributed In Time - Kirk Shoop - CppCon 2016.pdf) by Kirk Shoop
  - [Beyond the Issaquah Challenge](Presentations/Beyond the Issaquah Challenge/Beyond the Issaquah Challenge - Paul McKenney - CppCon 2016.pdf) by Paul McKenney
