@@ -51,6 +51,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [The strange details of std string at Facebook](Presentations/The strange details of std string at Facebook/The strange details of std string at Facebook - Nicholas Ormrod - CppCon 2016.pdf) by Nicholas Ormrod
  - [Towards Heterogeneous Programming in C++](Presentations/Towards Heterogeneous Programming in C++/Towards Heterogeneous Programming in C++ - Gordon Brown and Michael Wong - CppCon 2016.pdf) by Gordon Brown and Michael Wong
  - [tuple, What's New, And How It Works](Presentations/tuple, What's New, And How It Works/tuple, What's New, And How It Works - Stephan T. Lavavej - CppCon 2016.pdf) by Stephan T. Lavavej
+ - [Using Weakly Ordered C++ Atomics Correctly](Presentations/Using Weakly Ordered C++ Atomics Correctly/Using Weakly Ordered C++ Atomics Correctly - Hans Boehm - CppCon 2016.pdf) by Hans Boehm
  - [Variadic expansion in examples](Presentations/Variadic expansion in examples/Variadic expansion in examples - Michał Dominiak - CppCon 2016.pdf) by Michał Dominiak
  - [Variants - Past, Present, and Future](Presentations/Variants - Past, Present, and Future/Variants - Past, Present, and Future - David Sankel - CppCon 2016.pdf) by David Sankel
  - [Welcome To The Time Zone](Presentations/Welcome To The Time Zone/Welcome To The Time Zone - Howard Hinnant - CppCon 2016.pdf) by Howard Hinnant
