@@ -52,6 +52,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [STL Algorithms](Presentations/STL Algorithms/STL Algorithms - Marshall Clow - CppCon 2016.pdf) by Marshall Clow
  - [The Exception Situation](Presentations/The Exception Situation/The Exception Situation - Patrice Roy - CppCon 2016.pdf) by Patrice Roy
  - [The MAME Story - From C to Modern C++](Presentations/The MAME Story - From C to Modern C++/The MAME Story - From C to Modern C++ - Miodrag Milanovic - CppCon 2016.pdf) by Miodrag Milanovic \[[README](Presentations/The MAME Story - From C to Modern C++/README.md)\]
+ - [The Power of Reflection with Facebook's Thrift](Presentations/The Power of Reflection with Facebook's Thrift/The Power of Reflection with Facebook's Thrift - Marcelo Juchem - CppCon 2016.pdf) by Marcelo Juchem
  - [The speed of concurrency (is lock-free faster)](Presentations/The speed of concurrency (is lock-free faster)/The speed of concurrency (is lock-free faster) - Fedor Pikus - CppCon 2016.bz2) by Fedor Pikus
  - [The strange details of std string at Facebook](Presentations/The strange details of std string at Facebook/The strange details of std string at Facebook - Nicholas Ormrod - CppCon 2016.pdf) by Nicholas Ormrod
  - [Towards Heterogeneous Programming in C++](Presentations/Towards Heterogeneous Programming in C++/Towards Heterogeneous Programming in C++ - Gordon Brown and Michael Wong - CppCon 2016.pdf) by Gordon Brown and Michael Wong
