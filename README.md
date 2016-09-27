@@ -42,6 +42,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Optimally Shooting Furry Balls out of Vulkanoes](Presentations/Optimally Shooting Furry Balls out of Vulkanoes/Optimally Shooting Furry Balls out of Vulkanoes - Alexandru Voicu - CppCon 2016.pdf) by Alexandru Voicu
  - [Out of memory - Business as usual](Presentations/Out of memory - Business as usual/Out of memory - Business as usual - Sergey Zubkov - CppCon 2016.pdf) by Sergey Zubkov
  - [Parallelism in Modern C++](Presentations/Parallelism in Modern C++/Parallelism in Modern C++ - Hartmut Kaiser - CppCon 2016.pdf) by Hartmut Kaiser
+ - [Putting Coroutines to Work with the Windows Runtime](Presentations/Putting Coroutines to Work with the Windows Runtime/Putting Coroutines to Work with the Windows Runtime - Kenny Kerr and James McNellis - CppCon 2016.pdf) by Kenny Kerr and James McNellis
  - [Python and C++. The beauty and the beast](Presentations/Python and C++. The beauty and the beast/Python and C++. The beauty and the beast - Diego Rodriguez-Losada - CppCon 2016.pdf) by Diego Rodriguez-Losada
  - [Rainbow Six Siege - Quest for Performance](Presentations/Rainbow Six Siege - Quest for Performance/Rainbow Six Siege - Quest for Performance - Nicolas Fleury - CppCon 2016.pdf) by Nicolas Fleury
  - [Regular Expressions in C++, Present and Future](Presentations/Regular Expressions in C++, Present and Future/Regular Expressions in C++, Present and Future - Tim Shen - CppCon 2016.pdf) by Tim Shen
