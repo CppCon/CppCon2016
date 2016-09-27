@@ -70,6 +70,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [A chrono Tutorial](Tutorials/A chrono Tutorial/A chrono Tutorial - Howard Hinnant - CppCon 2016.pdf) by Howard Hinnant
  - [Asynchronous IO with Boost.Asio](Tutorials/Asynchronous IO with Boost.Asio/Asynchronous IO with Boost.Asio - Michael Caisse - CppCon 2016.pdf) by Michael Caisse
  - [BDE Libraries - An Orientation](Tutorials/BDE Libraries - An Orientation/BDE Libraries - An Orientation - Steven Breitstein - CppCon 2016.pdf) by Steven Breitstein
+ - [Better Mutual Exclusion on the Filesystem](Tutorials/Better Mutual Exclusion on the Filesystem/Better Mutual Exclusion on the Filesystem - Niall Douglas - CppCon 2016.pdf) by Niall Douglas
  - [GDB - a lot more than you realized](Tutorials/GDB - a lot more than you realized/GDB - a lot more than you realized - Greg Law - CppCon 2016.pdf) by Greg Law
  - [Implementing static control flow in C++14](Tutorials/Implementing static control flow in C++14/Implementing static control flow in C++14 - Vittorio Romeo - CppCon 2016.pdf) by Vittorio Romeo \[[.pptx](Tutorials/Implementing static control flow in C++14/Implementing static control flow in C++14 - Vittorio Romeo - CppCon 2016.pptx)\] \[[.pdf](Tutorials/Implementing static control flow in C++14/Implementing static control flow in C++14 - Vittorio Romeo - CppCon 2016.pdf)\] \[[README](Tutorials/Implementing static control flow in C++14/README.md)\]
  - [Practical Performance Practices](Tutorials/Practical Performance Practices/Practical Performance Practices - Jason Turner - CppCon 2016.pdf) by Jason Turner
