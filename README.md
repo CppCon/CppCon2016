@@ -27,6 +27,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Deploying C++ modules to 100s of millions of lines of code](Presentations/Deploying C++ modules to 100s of millions of lines of code/Deploying C++ modules to 100s of millions of lines of code - Manuel Klimek - CppCon 2016.pdf) by Manuel Klimek
  - [Developing Correct C++ at Facebook Scale](Presentations/Developing Correct C++ at Facebook Scale/Developing Correct C++ at Facebook Scale - Mark Isaacson - CppCon 2016.pdf) by Mark Isaacson
  - [Elegant Asynchronous Code](Presentations/Elegant Asynchronous Code/Elegant Asynchronous Code - Nat Goodspeed - CppCon 2016.pdf) by Nat Goodspeed
+ - [Embracing Standard C++ for the Windows Runtime](Presentations/Embracing Standard C++ for the Windows Runtime/Embracing Standard C++ for the Windows Runtime - Kenny Kerr and James McNellis - CppCon 2016.pdf) by Kenny Kerr and James McNellis
  - [From Zero To Iterators](Presentations/From Zero To Iterators/From Zero To Iterators - Patrick Niedzielski - CppCon 2016.pdf) by Patrick Niedzielski
  - [Game Engine Using C++11](Presentations/Game Engine Using C++11/Game Engine Using C++11 - Jason Jurecka - CppCon 2016.pdf) by Jason Jurecka
  - [High Performance C++ Concurrent Transactional Data Structures](Presentations/High Performance C++ Concurrent Transactional Data Structures/High Performance C++ Concurrent Transactional Data Structures - Deli Zhang - CppCon 2016.pdf) by Deli Zhang \[[README](Presentations/High Performance C++ Concurrent Transactional Data Structures/README.md)\]
