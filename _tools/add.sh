@@ -13,8 +13,8 @@ fi
 FILE="$1"
 
 SESSION=""
-while [[ ! "$SESSION" =~ ^[pkltd]$ ]]; do
-    read -p "[P]resentation, [K]eynote, [T]utorial, [L]ighting/Lunch, [D]emo? " SESSION
+while [[ ! "$SESSION" =~ ^[pkltdo]$ ]]; do
+    read -p "[P]resentation, [K]eynote, [T]utorial, [L]ighting/Lunch, [D]emo, P[o]ster? " SESSION
     SESSION=`echo $SESSION | tr '[:upper:]' '[:lower:]'`
 done
 
@@ -33,6 +33,9 @@ elif [ $SESSION = t ] ; then
 elif [ $SESSION = d ] ; then
     FOLDER="Demos"
     TYPE="Demo"
+elif [ $SESSION = o ] ; then
+    FOLDER="Posters"
+    TYPE="Poster"
 fi
 
 FILENAME=`basename "$FILE"`
