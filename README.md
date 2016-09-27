@@ -56,6 +56,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [What Happened to Deprecated and Removed Features of C++](Presentations/What Happened to Deprecated and Removed Features of C++/What Happened to Deprecated and Removed Features of C++ - Billy Baker - CppCon 2016.pdf) by Billy Baker
  - [What is the basic interface](Presentations/What is the basic interface/What is the basic interface - Lisa Lippincott - CppCon 2016.pdf) by Lisa Lippincott
  - [What We’ve Learned From the C++ Community](Presentations/What We’ve Learned From the C++ Community/What We’ve Learned From the C++ Community - Rob Irving and Jason Turner - CppCon 2016.pdf) by Rob Irving and Jason Turner
+ - [Writing applications in modern C++ and Qt](Presentations/Writing applications in modern C++ and Qt/Writing applications in modern C++ and Qt - Jens Weller - CppCon 2016.pdf) by Jens Weller
 
 ## Tutorials
 
