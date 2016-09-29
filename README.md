@@ -93,6 +93,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Presenting Code](Lightning Talks and Lunch Sessions/Presenting Code/Presenting Code - Jens Weller - CppCon 2016.pdf) by Jens Weller
  - [Programming](Lightning Talks and Lunch Sessions/Programming/Programming - Jens Weller - CppCon 2016.pdf) by Jens Weller
  - [uftrace - A function graph tracer C C++ userspace programs](Lightning Talks and Lunch Sessions/uftrace - A function graph tracer C C++ userspace programs/uftrace - A function graph tracer C C++ userspace programs - Namhyung Kim and Honggyu Kim - CppCon 2016.pdf) by Namhyung Kim and Honggyu Kim
+ - [Variants of variadic and](Lightning Talks and Lunch Sessions/Variants of variadic and/Variants of variadic and - Roland Bock - CppCon 2016.pdf) by Roland Bock
 
 ## Posters
 
