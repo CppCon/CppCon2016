@@ -31,6 +31,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [From Zero To Iterators](Presentations/From Zero To Iterators/From Zero To Iterators - Patrick Niedzielski - CppCon 2016.pdf) by Patrick Niedzielski
  - [Game Engine Using C++11](Presentations/Game Engine Using C++11/Game Engine Using C++11 - Jason Jurecka - CppCon 2016.pdf) by Jason Jurecka
  - [High Performance C++ Concurrent Transactional Data Structures](Presentations/High Performance C++ Concurrent Transactional Data Structures/High Performance C++ Concurrent Transactional Data Structures - Deli Zhang - CppCon 2016.pdf) by Deli Zhang \[[README](Presentations/High Performance C++ Concurrent Transactional Data Structures/README.md)\]
+ - [How to test static_assert](Presentations/How to test static_assert/How to test static_assert - Roland Bock - CppCon 2016.pdf) by Roland Bock
  - [I Just Wanted a Random Integer!](Presentations/I Just Wanted a Random Integer!/I Just Wanted a Random Integer! - Cheinan Marks - CppCon 2016.pdf) by Cheinan Marks
  - [Implementing a Modern C++ MQTT Client for Embedded Devices](Presentations/Implementing a Modern C++ MQTT Client for Embedded Devices/Implementing a Modern C++ MQTT Client for Embedded Devices - Michael Caisse - CppCon 2016.pdf) by Michael Caisse
  - [Implementing Lightweight Object Persistence With Modern C++](Presentations/Implementing Lightweight Object Persistence With Modern C++/Implementing Lightweight Object Persistence With Modern C++ - Bob Steagall - CppCon 2016.pdf) by Bob Steagall
