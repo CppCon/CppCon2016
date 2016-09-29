@@ -10,6 +10,7 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Keynotes
 
+ - [extern C - Talking to C Programmers About C++](Keynotes/extern C - Talking to C Programmers About C++/extern C - Talking to C Programmers About C++ - Dan Saks - CppCon 2016.pdf) by Dan Saks
  - [The Evolution of C++ - Past, Present, and Future](Keynotes/The Evolution of C++ - Past, Present, and Future/The Evolution of C++ - Past, Present, and Future - Bjarne Stroustrup - CppCon 2016.pdf) by Bjarne Stroustrup
 
 ## Presentations
