@@ -17,6 +17,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [A modern database interface for C++](Presentations/A modern database interface for C++/A modern database interface for C++ - Erik Smith - CppCon 2016.pdf) by Erik Smith
  - [AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!](Presentations/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits! - Andy Bond - CppCon 2016.pdf) by Andy Bond
  - [accumulate - Exploring an Algorithmic Empire](Presentations/accumulate - Exploring an Algorithmic Empire/accumulate - Exploring an Algorithmic Empire - Ben Deane - CppCon 2016.pdf) by Ben Deane
+ - [Advanced Levelization Techniques](Presentations/Advanced Levelization Techniques/Advanced Levelization Techniques - John Lakos - CppCon 2016.pdf) by John Lakos
  - [Algorithm Design For Values Distributed In Time](Presentations/Algorithm Design For Values Distributed In Time/Algorithm Design For Values Distributed In Time - Kirk Shoop - CppCon 2016.pdf) by Kirk Shoop
  - [Beyond the Issaquah Challenge](Presentations/Beyond the Issaquah Challenge/Beyond the Issaquah Challenge - Paul McKenney - CppCon 2016.pdf) by Paul McKenney
  - [Building Software Capital](Presentations/Building Software Capital/Building Software Capital - David Sankel - CppCon 2016.pdf) by David Sankel
