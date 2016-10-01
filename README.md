@@ -93,6 +93,7 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Lightning Talks and Lunch Sessions
 
+ - [On using singletons in C++](Lightning Talks and Lunch Sessions/On using singletons in C++/On using singletons in C++ - Arno Lepisk - CppCon 2016.pdf) by Arno Lepisk
  - [Presenting Code](Lightning Talks and Lunch Sessions/Presenting Code/Presenting Code - Jens Weller - CppCon 2016.pdf) by Jens Weller
  - [Programming](Lightning Talks and Lunch Sessions/Programming/Programming - Jens Weller - CppCon 2016.pdf) by Jens Weller
  - [uftrace - A function graph tracer C C++ userspace programs](Lightning Talks and Lunch Sessions/uftrace - A function graph tracer C C++ userspace programs/uftrace - A function graph tracer C C++ userspace programs - Namhyung Kim and Honggyu Kim - CppCon 2016.pdf) by Namhyung Kim and Honggyu Kim
