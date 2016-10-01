@@ -1,0 +1,264 @@
+---------
+
+TERMINAL repo-web-interface
+
+ firefox https://cppget.org
+ firefox https://build2.org/pkg/hello
+
+---------
+
+ TERMINAL package-manager-usage
+
+ cd /tmp/
+ mkdir hello-gcc5-release
+ cd hello-gcc5-release/
+ bpkg create cxx config.cxx=g++-5 config.cxx.coptions=-O3
+ t
+
+ bpkg add https://build2.org/pkg/1/hello/stable
+ bpkg fetch
+ bpkg status hello
+ bpkg build hello
+
+ bpkg clean hello
+ bpkg update hello -v
+
+ bpkg test hello
+
+ t
+ hello-1.0.0/hello
+ hello-1.0.0/hello CppCon
+
+ bpkg add https://build2.org/pkg/1/hello/testing
+ bpkg fetch
+ bpkg status libhello
+ bpkg build libhello
+
+ bpkg build libhello/1.0.0
+
+ bpkg install config.install.root=/tmp/install hello
+ t /tmp/install
+ /tmp/install/bin/hello
+
+ bpkg install \
+   config.install.root=/tmp/install \
+   config.bin.rpath=/tmp/install/lib \
+   hello
+
+ /tmp/install/bin/hello
+
+ bpkg uninstall \
+   config.install.root=/tmp/install \
+   config.bin.rpath=/tmp/install/lib \
+   hello
+
+ bpkg help
+
+---------
+
+ TERMINAL windows-package-manager-usage
+
+ # Start VC Native Development Prompt
+ cd C:
+ cd projects
+ mkdir hello-vc14-release
+ cd hello-vc14-release\
+ bpkg create cxx config.cxx=cl config.cxx.coptions=/O2 -v # config report
+
+ bpkg add https://build2.org/pkg/1/hello/stable
+ bpkg fetch
+ bpkg build -y hello
+
+ tree /f
+ hello-1.0.0\hello.exe CppCon
+
+ bpkg install config.install.root=C:\hello hello
+
+ tree /f C:\hello
+ C:\hello\bin\hello.exe
+
+ bpkg uninstall config.install.root=C:\hello hello
+
+---------
+
+ TERMINAL examine-manifest
+
+ What makes a package? Well, it must use the build2 build system.
+ Other than that, it should include a manifest file which describes
+ the package.
+
+ cat hello-1.0.0/manifest
+
+---------
+
+ TERMINAL build-system-usage
+
+ cd hello0/
+ t
+
+ b
+ t
+ ./hello World
+
+ b clean
+ t
+
+ b config.cxx=clang++ -v
+
+ b clean
+
+---------
+
+ TERMINAL persistent-configuration-and-out-of-source-builds
+
+ Two problems: multiple configurations and repeating config.*.
+
+ cd ..
+ l     # just hello0
+
+ b 'configure(hello0/@hello0-gcc5-release/)' \
+   config.cxx=g++-5 \
+   config.cxx.coptions=-O3
+
+ l
+ cd hello0-gcc5-release/
+ t
+ less build/config.build
+
+ b -v            # notice no need to specify config.*
+ ./hello World
+ b clean
+
+ cd ..
+ b 'configure(hello0/@hello0-clang36-release/)' \
+   config.cxx=clang++-3.6 \
+   config.cxx.coptions=-O3
+
+ l
+ b hello0-gcc5-release/ hello0-clang36-release/ -v
+
+---------
+
+ TERMINAL cross-compilation
+
+ x86_64-w64-mingw32-g++ --version
+
+ b 'configure(hello0/@hello0-mingw-release/)' \
+   config.cxx=x86_64-w64-mingw32-g++ \
+   config.cxx.coptions=-O3 \
+   -v
+
+ # Let's talk a bit about what we see.
+
+ cd hello0-mingw-release/
+ b -v
+ l
+ ./hello.exe Windows # What do you think will happen? Everyone understand
+                     # how it works?
+
+---------
+
+ TERMINAL cross-compilation-vc
+
+ cd ..
+ cl-14
+
+ b 'configure(hello0/@hello0-vc14-release/)' \
+   config.cxx=cl-14 \
+   config.cxx.coptions=/O2 \
+   -v
+
+ # Let's talk a bit about what we see.
+
+ cd hello0-vc14-release/
+ b  -v                     # Easiest ever build with VC. And quietest,
+                           # if you know what I mean.
+ hello.exe VC++
+
+ cd ..
+ l
+
+ So here, in 5 minutes, we've setup a build for all the main C++ compiler.
+
+---------
+
+ TERMINAL examine-dot-d
+
+ Want to take a look inside one?
+
+ less hello0-gcc5-release/hello.o.d
+
+---------
+
+ TERMINAL hfb-example-option
+
+ cd hello0
+ b configure config.cxx=c++
+ b
+ b                           # Up-to-date.
+ edit build/config.build     # Add -O2
+ b -v                        # Recompiled and with -O2.
+
+---------
+
+ TERMINAL hfb-example-compiler
+
+ Let's try something sneakier.
+
+ c++ --version
+ sudo update-alternatives --config c++
+ c++ --version
+
+ b -v
+
+---------
+
+ TERMINAL hfb-example-override-temporary
+
+ Let's see an example of high fidelity builds and command line overrides.
+ Say our hello program dumps core and we want to re-build it with debug
+ info so that we can analyze the stack trace.
+
+ b # up-to-date
+ b config.cxx.coptions+=-g -v
+
+ Say we fixed our bug and would like to revert to our original
+ build. All we have to do is to remove the override:
+
+ b -v
+
+ Note also that this is not some coarse "rebuild everythig if changed
+ anything mechanism"; build2 will only update what has been affected
+ by the override. For example, if we add a link option there is no
+ reason to recompile.
+
+ b config.cxx.loptions=+-L/tmp/lib -v
+
+---------
+
+ TERMINAL hfb-example-override-configuration
+
+ What if we want to add -g permanently. Well, one way is to edit config.build.
+ But we can also adjust the configuration from the command line:
+
+ b config.cxx.coptions+=-g configure
+ grep coptions build/config.build
+ b -v
+
+---------
+
+ TERMINAL install-hello
+
+ b install \
+   config.install.root=/opt/hello \
+   config.install.sudo=sudo \
+   -v
+
+ t /opt/hello
+ /opt/hello/bin/hello
+
+ b uninstall \
+   config.install.root=/opt/hello \
+   config.install.sudo=sudo
+
+---------
