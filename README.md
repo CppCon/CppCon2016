@@ -15,6 +15,7 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Presentations
 
+ - [A C++ MQTT Message Broker for the Enterprise](Presentations/A C++ MQTT Message Broker for the Enterprise/A C++ MQTT Message Broker for the Enterprise - John Dubchak - CppCon 2016.pptx) by John Dubchak
  - [A modern database interface for C++](Presentations/A modern database interface for C++/A modern database interface for C++ - Erik Smith - CppCon 2016.pdf) by Erik Smith
  - [AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!](Presentations/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits! - Andy Bond - CppCon 2016.pdf) by Andy Bond
  - [accumulate - Exploring an Algorithmic Empire](Presentations/accumulate - Exploring an Algorithmic Empire/accumulate - Exploring an Algorithmic Empire - Ben Deane - CppCon 2016.pdf) by Ben Deane
