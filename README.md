@@ -55,6 +55,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [SPMD Programming Using C++ and ISPC](Presentations/SPMD Programming Using C++ and ISPC/SPMD Programming Using C++ and ISPC - Nicolas Guillemot - CppCon 2016.pdf) by Nicolas Guillemot
  - [Standards Proposals for SG6 - Integers](Presentations/Standards Proposals for SG6 - Integers/Standards Proposals for SG6 - Integers - John McFarlane - CppCon 2016.pdf) by John McFarlane
  - [STL Algorithms](Presentations/STL Algorithms/STL Algorithms - Marshall Clow - CppCon 2016.pdf) by Marshall Clow
+ - [The Continuing Future of Concurrency in C++](Presentations/The Continuing Future of Concurrency in C++/The Continuing Future of Concurrency in C++ - Anthony Williams - CppCon 2016.pdf) by Anthony Williams
  - [The Exception Situation](Presentations/The Exception Situation/The Exception Situation - Patrice Roy - CppCon 2016.pdf) by Patrice Roy
  - [The Guideline Support Library - One Year Later](Presentations/The Guideline Support Library - One Year Later/The Guideline Support Library - One Year Later - Neil MacIntosh - CppCon 2016.pdf) by Neil MacIntosh
  - [The MAME Story - From C to Modern C++](Presentations/The MAME Story - From C to Modern C++/The MAME Story - From C to Modern C++ - Miodrag Milanovic - CppCon 2016.pdf) by Miodrag Milanovic \[[README](Presentations/The MAME Story - From C to Modern C++/README.md)\]
